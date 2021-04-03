@@ -44,3 +44,5 @@ console.table(my)
 console.log(my.number1)
 // Git test day2
 console.log(my.number2)
+// Git test day3
+console.log(my.number3)
