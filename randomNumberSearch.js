@@ -40,5 +40,7 @@ let my={}
 
 console.log(my)
 console.table(my)
-
+// Git test day1
 console.log(my.number1)
+// Git test day2
+console.log(my.number2)
