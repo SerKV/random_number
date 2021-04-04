@@ -46,5 +46,3 @@ console.log(my.number1)
 console.log(my.number2)
 // Git test day3
 console.log(my.number3)
-// // Git test day4
-// console.log(my.number4)
